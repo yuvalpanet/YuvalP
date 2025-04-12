@@ -37,4 +37,4 @@ I'm a Master's student in Data Science with a strong background in Mathematics a
 
 I'm always open to collaboration, job opportunities, and cool side-projects.
 
-[LinkedIn](#) • [Email](#)
+[LinkedIn]([#](https://www.linkedin.com/in/yuvalpanet/)) • [Email](#)
