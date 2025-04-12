@@ -1,4 +1,4 @@
-# YuvalP
+# YuvalPanet
 
 # 👋 Hi there! I'm Yuval
 
